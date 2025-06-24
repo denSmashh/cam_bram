@@ -15,4 +15,4 @@
 Источник лежавший в основе данной архитектуры: I.Ullah, Z.Ullah, Jeong-A Lee. "Efficient TCAM Design Based on Multipumping-Enabled Multiported SRAM on FPGA".
 
 ## Структурная схема
-<img src="img/struct.png" width="600" height="400"/>
+<img src="img/struct.png" width="1000" height="600"/>
